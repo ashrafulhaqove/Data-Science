@@ -3,4 +3,5 @@ In this Directory there is a collecting of all popular Algorithms that come unde
 
 ## Data Pre-Processing
 ## Pattern Recognision and Machine Learning
+. K-Means Clustering Raw Implementation
 ## Deep Learning
