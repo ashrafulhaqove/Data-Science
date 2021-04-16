@@ -3,5 +3,5 @@ In this Directory there is a collecting of all popular Algorithms that come unde
 
 ## Data Pre-Processing
 ## Pattern Recognision and Machine Learning
-* [K-Means Clustering Raw Implementation](https://www.google.com)
+* [K-Means Clustering Raw Implementation](https://github.com/ashrafulhaqove/Data-Science/blob/main/K-Means%20Clustering/K-means%20Clustering%20From%20Scratch.ipynb)
 ## Deep Learning
