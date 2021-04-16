@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/ashrafulhaqove/Data-Science/blob/main/K-Means%20Clustering/Input.png "Logo Title Text 1")
 
-### Output 
+### Output (k = 2)
 ![alt text](https://github.com/ashrafulhaqove/Data-Science/blob/main/K-Means%20Clustering/Output.png "Logo Title Text 1")
 
 
